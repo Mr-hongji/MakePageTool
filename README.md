@@ -1,5 +1,5 @@
 # MakePageTool
-NSIS打包工具
+NSIS 3.0 打包工具
 使用aceui 支持异形界面
 
 说明：
