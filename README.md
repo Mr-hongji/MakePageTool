@@ -21,6 +21,7 @@ NSIS 3.0 打包工具，图：
   * 打包工具可以改目录下 InstallPackages.xml 文件可修改UI（UI中的空间参数可以参考：属性列表.xml文件），PackageTool.nsi文件可修改打包工具的功能，改成自己需要 样子。
 
 * 打包工具的生成：
+
         ➣  打开D:\PackageTool\NSIS\makensisw.exe 
         ➣  用makensisw.exe程序打开PackageTool.nsi后会自动编译文件，编译完成后会生成 MakePackageTool.exe 
         
