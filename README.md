@@ -1,6 +1,6 @@
 # MakePageTool
 NSIS 3.0 打包工具，图：
-![image](https://github.com/Mr-hongji/PyQt5VideoPlayer/blob/master/images/pyinstaller_ok.png)
+
 ![image](https://github.com/Mr-hongji/MakePageTool/tree/master/images/exeFile.png)
 
 使用aceui 支持异形界面的安装程序。
