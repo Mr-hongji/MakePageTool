@@ -19,7 +19,7 @@ NSIS 3.0 打包工具，图：
 ![image](https://github.com/Mr-hongji/MakePageTool/blob/master/images/DirectoryFileDescription.png)
 
 **使用：**
-  * 打包工具可以改目录下 InstallPackages.xml 文件可修改UI（UI中的空间参数可以参考：属性列表.xml文件），PackageTool.nsi文件可修改打包工具的功能，改成自己需要 样子。
+  * 打包工具可以改目录下 InstallPackages.xml 文件可修改UI（UI中的组件属性可以参考：属性列表.xml文件），PackageTool.nsi文件可修改打包工具的功能，改成自己需要 样子。
 
 * 打包工具的生成：
 
